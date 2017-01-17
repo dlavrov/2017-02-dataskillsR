@@ -20,7 +20,7 @@ kind: "workshop"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
-repository: dlavrov/r-novice-gapminder
+repository: dlavrov/2017-02-dataskillsR
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
@@ -35,7 +35,7 @@ workshop_repo: "https://github.com/swcarpentry/workshop-template"
 workshop_site: "https://swcarpentry.github.io/workshop-template"
 training_site: "https://swcarpentry.github.io/instructor-training"
 swc_installer: "https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe"
-#new_site: "https://dlavrov.github.io/r-novice-gapminder"
+new_site: "https://dlavrov.github.io/r-novice-gapminder"
 
 # Surveys.
 pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
